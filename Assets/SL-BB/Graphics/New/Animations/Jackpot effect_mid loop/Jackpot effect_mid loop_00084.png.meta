@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 9893f1ec2de31454b91eddeb66c25bb3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7170768627059169453
+    second: Jackpot effect_mid loop_00084_0
+  - first:
+      213: -511089736473230028
+    second: Jackpot effect_mid loop_00084_1
+  - first:
+      213: -3530325871723039600
+    second: Jackpot effect_mid loop_00084_2
+  - first:
+      213: 5375172671740466608
+    second: Jackpot effect_mid loop_00084_3
+  - first:
+      213: 7104470846702133093
+    second: Jackpot effect_mid loop_00084_4
+  - first:
+      213: 6526377701445397751
+    second: Jackpot effect_mid loop_00084_5
+  - first:
+      213: 4332856532598282375
+    second: Jackpot effect_mid loop_00084_6
+  - first:
+      213: -729198104024685299
+    second: Jackpot effect_mid loop_00084_7
+  - first:
+      213: -853784474972583962
+    second: Jackpot effect_mid loop_00084_8
+  - first:
+      213: 2682762442020883786
+    second: Jackpot effect_mid loop_00084_9
+  - first:
+      213: 4231113622829186545
+    second: Jackpot effect_mid loop_00084_10
+  - first:
+      213: 6888668942546512424
+    second: Jackpot effect_mid loop_00084_11
+  - first:
+      213: 7008530163878589238
+    second: Jackpot effect_mid loop_00084_12
+  - first:
+      213: -4879977144754011047
+    second: Jackpot effect_mid loop_00084_13
+  - first:
+      213: -4896964273849234865
+    second: Jackpot effect_mid loop_00084_14
+  - first:
+      213: 1383113544521478534
+    second: Jackpot effect_mid loop_00084_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jackpot effect_mid loop_00084_0
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 959
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8906ee210b38360800000000000000
+      internalID: 7170768627059169453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_mid loop_00084_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1063
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4354a21b79e38e8f0800000000000000
+      internalID: -511089736473230028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_mid loop_00084_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 1426
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094b39af253c10fc0800000000000000
+      internalID: -3530325871723039600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_mid loop_00084_3
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 959
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b55a79e013789a40800000000000000
+      internalID: 5375172671740466608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_mid loop_00084_4
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 1063
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f9cce0896289260800000000000000
+      internalID: 7104470846702133093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_mid loop_00084_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1006
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fceea4f0f9529a50800000000000000
+      internalID: 6526377701445397751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_mid loop_00084_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 939
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78850485f06612c30800000000000000
+      internalID: 4332856532598282375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_mid loop_00084_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 925
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0568b6103e51e5f0800000000000000
+      internalID: -729198104024685299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_mid loop_00084_8
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 925
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e704862b8fb624f0800000000000000
+      internalID: -853784474972583962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_mid loop_00084_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 793
+        width: 79
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d0a652a361b3520800000000000000
+      internalID: 2682762442020883786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_mid loop_00084_10
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 827
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdbc0d2c6fe7ba30800000000000000
+      internalID: 4231113622829186545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_mid loop_00084_11
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 827
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a20cfc7e7799f50800000000000000
+      internalID: 6888668942546512424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_mid loop_00084_12
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 793
+        width: 79
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633f79f1d0d434160800000000000000
+      internalID: 7008530163878589238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_mid loop_00084_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 710
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95489ee54a6d64cb0800000000000000
+      internalID: -4879977144754011047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_mid loop_00084_14
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 710
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a007b20fc7a0cb0800000000000000
+      internalID: -4896964273849234865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_mid loop_00084_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 564
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681fb31d07ec13310800000000000000
+      internalID: 1383113544521478534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Jackpot effect_mid loop_00084_0: 7170768627059169453
+      Jackpot effect_mid loop_00084_1: -511089736473230028
+      Jackpot effect_mid loop_00084_10: 4231113622829186545
+      Jackpot effect_mid loop_00084_11: 6888668942546512424
+      Jackpot effect_mid loop_00084_12: 7008530163878589238
+      Jackpot effect_mid loop_00084_13: -4879977144754011047
+      Jackpot effect_mid loop_00084_14: -4896964273849234865
+      Jackpot effect_mid loop_00084_15: 1383113544521478534
+      Jackpot effect_mid loop_00084_2: -3530325871723039600
+      Jackpot effect_mid loop_00084_3: 5375172671740466608
+      Jackpot effect_mid loop_00084_4: 7104470846702133093
+      Jackpot effect_mid loop_00084_5: 6526377701445397751
+      Jackpot effect_mid loop_00084_6: 4332856532598282375
+      Jackpot effect_mid loop_00084_7: -729198104024685299
+      Jackpot effect_mid loop_00084_8: -853784474972583962
+      Jackpot effect_mid loop_00084_9: 2682762442020883786
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

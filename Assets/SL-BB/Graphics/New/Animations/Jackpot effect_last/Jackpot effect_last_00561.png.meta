@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: bacc8c20222e74f08893e49b8efd1d07
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7520175598712809870
+    second: Jackpot effect_last_00561_0
+  - first:
+      213: -9165209425761779641
+    second: Jackpot effect_last_00561_1
+  - first:
+      213: 5211152358998621545
+    second: Jackpot effect_last_00561_2
+  - first:
+      213: 1928841391503148303
+    second: Jackpot effect_last_00561_3
+  - first:
+      213: 6750530751527500693
+    second: Jackpot effect_last_00561_4
+  - first:
+      213: -2981564138166301204
+    second: Jackpot effect_last_00561_5
+  - first:
+      213: 3889046463611365439
+    second: Jackpot effect_last_00561_6
+  - first:
+      213: 3878765642010888224
+    second: Jackpot effect_last_00561_7
+  - first:
+      213: 4029425165086053873
+    second: Jackpot effect_last_00561_8
+  - first:
+      213: -834494680206447197
+    second: Jackpot effect_last_00561_9
+  - first:
+      213: 6822778709935662171
+    second: Jackpot effect_last_00561_10
+  - first:
+      213: 5800672839859389703
+    second: Jackpot effect_last_00561_11
+  - first:
+      213: 5166392012580240133
+    second: Jackpot effect_last_00561_12
+  - first:
+      213: -5815589102242905664
+    second: Jackpot effect_last_00561_13
+  - first:
+      213: -1803598600086322844
+    second: Jackpot effect_last_00561_14
+  - first:
+      213: 6712800506954488112
+    second: Jackpot effect_last_00561_15
+  - first:
+      213: -94935105500395239
+    second: Jackpot effect_last_00561_16
+  - first:
+      213: -7835313569762990201
+    second: Jackpot effect_last_00561_17
+  - first:
+      213: -3708166683820866033
+    second: Jackpot effect_last_00561_18
+  - first:
+      213: 104545069403974179
+    second: Jackpot effect_last_00561_19
+  - first:
+      213: 3479003601460604049
+    second: Jackpot effect_last_00561_20
+  - first:
+      213: -2328485455668503133
+    second: Jackpot effect_last_00561_21
+  - first:
+      213: -6665979808953204928
+    second: Jackpot effect_last_00561_22
+  - first:
+      213: -390108020213291693
+    second: Jackpot effect_last_00561_23
+  - first:
+      213: 4266558720151215601
+    second: Jackpot effect_last_00561_24
+  - first:
+      213: -5350205689699117542
+    second: Jackpot effect_last_00561_25
+  - first:
+      213: 1071161884170540239
+    second: Jackpot effect_last_00561_26
+  - first:
+      213: -8696396923556292458
+    second: Jackpot effect_last_00561_27
+  - first:
+      213: 7072512558786495161
+    second: Jackpot effect_last_00561_28
+  - first:
+      213: -3483406482592588284
+    second: Jackpot effect_last_00561_29
+  - first:
+      213: -4222432092003515067
+    second: Jackpot effect_last_00561_30
+  - first:
+      213: 8347664437311291024
+    second: Jackpot effect_last_00561_31
+  - first:
+      213: -6609914435763657452
+    second: Jackpot effect_last_00561_32
+  - first:
+      213: 2448108049360141428
+    second: Jackpot effect_last_00561_33
+  - first:
+      213: 6543338527902635702
+    second: Jackpot effect_last_00561_34
+  - first:
+      213: -6933748077165928739
+    second: Jackpot effect_last_00561_35
+  - first:
+      213: 3692622642758756698
+    second: Jackpot effect_last_00561_36
+  - first:
+      213: -5031861735390788488
+    second: Jackpot effect_last_00561_37
+  - first:
+      213: -8852180899449638581
+    second: Jackpot effect_last_00561_38
+  - first:
+      213: -3155639476632851754
+    second: Jackpot effect_last_00561_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 718
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2769926f228f2a790800000000000000
+      internalID: -7520175598712809870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_1
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1046
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740486d2692aec080800000000000000
+      internalID: -9165209425761779641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_2
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 0
+        width: 691
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d3d8ce57bb15840800000000000000
+      internalID: 5211152358998621545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_3
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 909
+        width: 49
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f058d90b60f94ca10800000000000000
+      internalID: 1928841391503148303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_4
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 882
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bb522e3f3bead50800000000000000
+      internalID: 6750530751527500693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_5
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 904
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedcd8d963b5f96d0800000000000000
+      internalID: -2981564138166301204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_6
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 875
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f386b82572ba8f530800000000000000
+      internalID: 3889046463611365439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_7
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 853
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0288c030dc424d530800000000000000
+      internalID: 3878765642010888224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_8
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 838
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f559fdb6d46be730800000000000000
+      internalID: 4029425165086053873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_9
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 819
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad675b72874b64f0800000000000000
+      internalID: -834494680206447197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_10
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 807
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5420da86116fae50800000000000000
+      internalID: 6822778709935662171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_11
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 776
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705431ee631208050800000000000000
+      internalID: 5800672839859389703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_12
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 741
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bb248a926b2b740800000000000000
+      internalID: 5166392012580240133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_13
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 797
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1cd291680ea4fa0800000000000000
+      internalID: -5815589102242905664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_14
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 657
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461867c01a458f6e0800000000000000
+      internalID: -1803598600086322844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_15
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 701
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0399511ce78a82d50800000000000000
+      internalID: 6712800506954488112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_16
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 636
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9194fe74609beaef0800000000000000
+      internalID: -94935105500395239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_17
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 592
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787aa7252df534390800000000000000
+      internalID: -7835313569762990201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_18
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 625
+        width: 97
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f064bea3c02f98cc0800000000000000
+      internalID: -3708166683820866033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_19
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 603
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32aa7dccf2b637100800000000000000
+      internalID: 104545069403974179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_20
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 562
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c2d5dc757e74030800000000000000
+      internalID: 3479003601460604049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_21
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 476
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad173e90de8fafd0800000000000000
+      internalID: -2328485455668503133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_22
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 429
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ffa6f7eaead73a0800000000000000
+      internalID: -6665979808953204928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_23
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 457
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355e72f82de069af0800000000000000
+      internalID: -390108020213291693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_24
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 435
+        width: 93
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd55fffc8cd53b30800000000000000
+      internalID: 4266558720151215601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_25
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 392
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16d536954040c5b0800000000000000
+      internalID: -5350205689699117542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_26
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 408
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc45ce2fe088dde00800000000000000
+      internalID: 1071161884170540239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_27
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 361
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69890a1d211305780800000000000000
+      internalID: -8696396923556292458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_28
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 291
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b245ff43bc962260800000000000000
+      internalID: 7072512558786495161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_29
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 310
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e96cc824478afc0800000000000000
+      internalID: -3483406482592588284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_30
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 226
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545cbeb3268e665c0800000000000000
+      internalID: -4222432092003515067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_31
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 253
+        width: 82
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09eb912f39cd8d370800000000000000
+      internalID: 8347664437311291024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_32
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 228
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415a49c67ddd444a0800000000000000
+      internalID: -6609914435763657452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_33
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 196
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cb2eddc4d69f120800000000000000
+      internalID: 2448108049360141428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_34
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 210
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b693c819bb9eca50800000000000000
+      internalID: 6543338527902635702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_35
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 205
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde1a724cd066cf90800000000000000
+      internalID: -6933748077165928739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_36
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 198
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59233faab4de3330800000000000000
+      internalID: 3692622642758756698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_37
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 88
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874c62f596c3b2ab0800000000000000
+      internalID: -5031861735390788488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_38
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 76
+        width: 63
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b417ec07f5cb62580800000000000000
+      internalID: -8852180899449638581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jackpot effect_last_00561_39
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 0
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da69148d9ae434d0800000000000000
+      internalID: -3155639476632851754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Jackpot effect_last_00561_0: -7520175598712809870
+      Jackpot effect_last_00561_1: -9165209425761779641
+      Jackpot effect_last_00561_10: 6822778709935662171
+      Jackpot effect_last_00561_11: 5800672839859389703
+      Jackpot effect_last_00561_12: 5166392012580240133
+      Jackpot effect_last_00561_13: -5815589102242905664
+      Jackpot effect_last_00561_14: -1803598600086322844
+      Jackpot effect_last_00561_15: 6712800506954488112
+      Jackpot effect_last_00561_16: -94935105500395239
+      Jackpot effect_last_00561_17: -7835313569762990201
+      Jackpot effect_last_00561_18: -3708166683820866033
+      Jackpot effect_last_00561_19: 104545069403974179
+      Jackpot effect_last_00561_2: 5211152358998621545
+      Jackpot effect_last_00561_20: 3479003601460604049
+      Jackpot effect_last_00561_21: -2328485455668503133
+      Jackpot effect_last_00561_22: -6665979808953204928
+      Jackpot effect_last_00561_23: -390108020213291693
+      Jackpot effect_last_00561_24: 4266558720151215601
+      Jackpot effect_last_00561_25: -5350205689699117542
+      Jackpot effect_last_00561_26: 1071161884170540239
+      Jackpot effect_last_00561_27: -8696396923556292458
+      Jackpot effect_last_00561_28: 7072512558786495161
+      Jackpot effect_last_00561_29: -3483406482592588284
+      Jackpot effect_last_00561_3: 1928841391503148303
+      Jackpot effect_last_00561_30: -4222432092003515067
+      Jackpot effect_last_00561_31: 8347664437311291024
+      Jackpot effect_last_00561_32: -6609914435763657452
+      Jackpot effect_last_00561_33: 2448108049360141428
+      Jackpot effect_last_00561_34: 6543338527902635702
+      Jackpot effect_last_00561_35: -6933748077165928739
+      Jackpot effect_last_00561_36: 3692622642758756698
+      Jackpot effect_last_00561_37: -5031861735390788488
+      Jackpot effect_last_00561_38: -8852180899449638581
+      Jackpot effect_last_00561_39: -3155639476632851754
+      Jackpot effect_last_00561_4: 6750530751527500693
+      Jackpot effect_last_00561_5: -2981564138166301204
+      Jackpot effect_last_00561_6: 3889046463611365439
+      Jackpot effect_last_00561_7: 3878765642010888224
+      Jackpot effect_last_00561_8: 4029425165086053873
+      Jackpot effect_last_00561_9: -834494680206447197
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

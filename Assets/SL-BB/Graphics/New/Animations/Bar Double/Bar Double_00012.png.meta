@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: eeff25595a38f4178b78aaea900ea2ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1970668858283323195
+    second: Bar Double_00012_0
+  - first:
+      213: -1720532482376065949
+    second: Bar Double_00012_1
+  - first:
+      213: -966526604728015055
+    second: Bar Double_00012_2
+  - first:
+      213: -423186149896346547
+    second: Bar Double_00012_3
+  - first:
+      213: -8335733949157257723
+    second: Bar Double_00012_4
+  - first:
+      213: 3136989375156468145
+    second: Bar Double_00012_5
+  - first:
+      213: -3662001249733150700
+    second: Bar Double_00012_6
+  - first:
+      213: -4336176387964101712
+    second: Bar Double_00012_7
+  - first:
+      213: -8052133124261778127
+    second: Bar Double_00012_8
+  - first:
+      213: -2642985192430378314
+    second: Bar Double_00012_9
+  - first:
+      213: -8823862847047417942
+    second: Bar Double_00012_10
+  - first:
+      213: -8542850316299819572
+    second: Bar Double_00012_11
+  - first:
+      213: -6746760796617977340
+    second: Bar Double_00012_12
+  - first:
+      213: 6840509223113553409
+    second: Bar Double_00012_13
+  - first:
+      213: 4863920581426791124
+    second: Bar Double_00012_14
+  - first:
+      213: -2172481381640724982
+    second: Bar Double_00012_15
+  - first:
+      213: 1482807019450223857
+    second: Bar Double_00012_16
+  - first:
+      213: -4708679915251718530
+    second: Bar Double_00012_17
+  - first:
+      213: 4045921191886835146
+    second: Bar Double_00012_18
+  - first:
+      213: 3448716265838509998
+    second: Bar Double_00012_19
+  - first:
+      213: 5274220556969950355
+    second: Bar Double_00012_20
+  - first:
+      213: 5139641032917040054
+    second: Bar Double_00012_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bar Double_00012_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 752
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fe6e3b2e8395b10800000000000000
+      internalID: 1970668858283323195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar Double_00012_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 770
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c1473b2d07f18e0800000000000000
+      internalID: -1720532482376065949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar Double_00012_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 779
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137e8338c253692f0800000000000000
+      internalID: -966526604728015055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar Double_00012_3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 763
+        width: 65
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d442095507a802af0800000000000000
+      internalID: -423186149896346547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar Double_00012_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 731
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e415a4326815c80800000000000000
+      internalID: -8335733949157257723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar Double_00012_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 98
+        width: 723
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9306a5733d88b20800000000000000
+      internalID: 3136989375156468145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar Double_00012_6
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 733
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4187e96f345fd2dc0800000000000000
+      internalID: -3662001249733150700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar Double_00012_7
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 732
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb96f79c8ec2d3c0800000000000000
+      internalID: -4336176387964101712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar Double_00012_8
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 722
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d6834e593114090800000000000000
+      internalID: -8052133124261778127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar Double_00012_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 641
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2e19a78fa325bd0800000000000000
+      internalID: -2642985192430378314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar Double_00012_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 603
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafb8fecd775b8580800000000000000
+      internalID: -8823862847047417942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar Double_00012_11
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 494
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5ad9736e2b17980800000000000000
+      internalID: -8542850316299819572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar Double_00012_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 377
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402dd052dc0be52a0800000000000000
+      internalID: -6746760796617977340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar Double_00012_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 428
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106777655ee5eee50800000000000000
+      internalID: 6840509223113553409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar Double_00012_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2c7a7affd108340800000000000000
+      internalID: 4863920581426791124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar Double_00012_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 393
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e972691bbc9d1e0800000000000000
+      internalID: -2172481381640724982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar Double_00012_16
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 284
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc49c0c02df39410800000000000000
+      internalID: 1482807019450223857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar Double_00012_17
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 255
+        width: 53
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76a762909867aeb0800000000000000
+      internalID: -4708679915251718530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar Double_00012_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 228
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdc3a743eff52830800000000000000
+      internalID: 4045921191886835146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar Double_00012_19
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 147
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf7a64fb2d4cdf20800000000000000
+      internalID: 3448716265838509998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar Double_00012_20
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 160
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cb14d07abc13940800000000000000
+      internalID: 5274220556969950355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar Double_00012_21
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 0
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbba08d94ca35740800000000000000
+      internalID: 5139641032917040054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bar Double_00012_0: 1970668858283323195
+      Bar Double_00012_1: -1720532482376065949
+      Bar Double_00012_10: -8823862847047417942
+      Bar Double_00012_11: -8542850316299819572
+      Bar Double_00012_12: -6746760796617977340
+      Bar Double_00012_13: 6840509223113553409
+      Bar Double_00012_14: 4863920581426791124
+      Bar Double_00012_15: -2172481381640724982
+      Bar Double_00012_16: 1482807019450223857
+      Bar Double_00012_17: -4708679915251718530
+      Bar Double_00012_18: 4045921191886835146
+      Bar Double_00012_19: 3448716265838509998
+      Bar Double_00012_2: -966526604728015055
+      Bar Double_00012_20: 5274220556969950355
+      Bar Double_00012_21: 5139641032917040054
+      Bar Double_00012_3: -423186149896346547
+      Bar Double_00012_4: -8335733949157257723
+      Bar Double_00012_5: 3136989375156468145
+      Bar Double_00012_6: -3662001249733150700
+      Bar Double_00012_7: -4336176387964101712
+      Bar Double_00012_8: -8052133124261778127
+      Bar Double_00012_9: -2642985192430378314
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
